@@ -6,6 +6,8 @@ ruby "3.2.6"
 gem "rails", "7.0.4.3"
 gem "bcrypt", "3.1.18"
 gem 'faker', '2.21.0'
+gem "will_paginate", "3.3.1"
+gem "bootstrap-will_paginate", "1.0.0"
 gem "bootstrap-sass", "3.4.1"
 gem 'htmlbeautifier'
 gem "sassc-rails", "2.1.2"
